@@ -6,7 +6,6 @@ This Streamlit app allows you to find similar NBA players based on their career 
 
 - Compare players by career score similarity
 - Filter by same position
-- Interactive visualizations
 - Player statistics display
 
 ## How to Use
@@ -21,5 +20,6 @@ This Streamlit app allows you to find similar NBA players based on their career 
 The app uses NBA career statistics data to calculate similarity scores based on normalized player statistics.
 
 ## Deployment
+
 
 This app is designed to run on Streamlit Cloud. Make sure to include the `NBA_career_stats.csv` file in your repository.
